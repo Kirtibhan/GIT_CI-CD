@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "KSI (VAR) [KSI]", "KSI\KSI.rnrproj", "{91ECE3CD-EE95-4070-9590-59993A945F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91ECE3CD-EE95-4070-9590-59993A945F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ECE3CD-EE95-4070-9590-59993A945F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78CFC88-A7F4-4ED9-9C8E-209A48847421}
+	EndGlobalSection
+EndGlobal
